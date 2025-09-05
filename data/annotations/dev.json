@@ -1,0 +1,102 @@
+{
+    "0": {
+        "image": "4a6f6836d754e66c73220ae4a57234d19c16657fdd2ff7e030f2f26af7842c8a.jpg",
+        "caption": "\u0110i\u1ec7n tho\u1ea1i c\u1ee7a ai r\u1edbt n\u00e0y \ud83e\udd23",
+        "label": "multi-sarcasm"
+    },
+    "1": {
+        "image": "8f69ab2838fbb08ad92548c332a699a9d8ae93fd26ab058144590b51cb6a9723.jpg",
+        "caption": "Cay th\u1eadt \u0111\u1ea5y",
+        "label": "not-sarcasm"
+    },
+    "2": {
+        "image": "a51efbb53289e1a7e22d4081b3cc95fd73fb9042f4de7cdaed5363709bfa9feb.jpg",
+        "caption": "Gi\u1edd x\u1ecbn th\u1eadt c\u00f3 c\u1ea3 gi\u1ea5y t\u1edd xe lu\u00f4n \ud83d\ude31",
+        "label": "multi-sarcasm"
+    },
+    "3": {
+        "image": "a216e73fb83acaf9d35049a0b17c241c9cfdceb7b696e269529f2dc06be3e7e1.jpg",
+        "caption": "Ch\u1ecb g\u00e1i d\u0169ng c\u1ea3m @@",
+        "label": "multi-sarcasm"
+    },
+    "4": {
+        "image": "7ec564456b92f51d452e41c3d1cbbdcf9f415cef7bc2cc47b68d386a593d5c30.jpg",
+        "caption": "Ch\u1ecb em n\u00e0o h\u00f4m qua coi \u0111\u00e1 banh qu\u1ea9y sung qu\u00e1 l\u00e0m r\u1edbt c\u1eb7p loa th\u00ec li\u00ean h\u1ec7 tui \u0111\u1ec3 l\u1ea5y l\u1ea1i nha, th\u1eed \u0111\u00fang size m\u1edbi tr\u1ea3!",
+        "label": "multi-sarcasm"
+    },
+    "5": {
+        "image": "2b144cb2df4021574d73d82b20a2a5d86e8a11433a6c0fe7617ce0b67a868be1.jpg",
+        "caption": "Ch\u00fac g\u00ec k\u00ec v\u1eady \ud83e\udd23",
+        "label": "image-sarcasm"
+    },
+    "6": {
+        "image": "0e89426d9ca48e7ef67e934c91167d8a68c844516ef3bd6fd8c25b53eaa098ac.jpg",
+        "caption": "Y\u00eau ph\u1ea3i ng\u01b0\u1eddi t\u1ed1t th\u00ec c\u1ea3 \u0111\u1eddi s\u1ebd l\u00e0 c\u00f4ng ch\u00faa v\u00e0 \u0111\u01b0\u1ee3c c\u01b0ng chi\u1ec1u che ch\u1edf\nTh\u1ebf nh\u01b0ng ng\u01b0\u1ee3c l\u1ea1i \ud83d\ude30",
+        "label": "not-sarcasm"
+    },
+    "7": {
+        "image": "c559e8f2ef53a7a4f465e5af4bf9e8dca1fb9c12d00123df9b66d05b0e1ff5d2.jpg",
+        "caption": "V\u1eeba d\u1ecdn kho th\u00ec th\u1ea5y \u0111\u01b0\u1ee3c quy\u1ec3n b\u00ed k\u00edp \ud83d\ude00",
+        "label": "not-sarcasm"
+    },
+    "8": {
+        "image": "2fc08e7d62217c8c07fa925546b201a3445f9f65b4af54e664cb3e250e22643b.jpg",
+        "caption": "Y\u00eau ph\u1ea3i ng\u01b0\u1eddi t\u1ed1t th\u00ec c\u1ea3 \u0111\u1eddi s\u1ebd l\u00e0 c\u00f4ng ch\u00faa v\u00e0 \u0111\u01b0\u1ee3c c\u01b0ng chi\u1ec1u che ch\u1edf\nTh\u1ebf nh\u01b0ng ng\u01b0\u1ee3c l\u1ea1i \ud83d\ude30",
+        "label": "not-sarcasm"
+    },
+    "9": {
+        "image": "1d4c3573bdc1e433aa733c242e5590a0309b95cb10e10cdbc4202a9ba432acbf.jpg",
+        "caption": "Ch\u1eef n\u00e0y l\u00e0 con ng y\u00eau t\u00ean Linh vi\u1ebft , ch\u1eafc ch\u1eafn lun ! \ud83e\udd79",
+        "label": "not-sarcasm"
+    },
+    "10": {
+        "image": "338d7e3e4e23d5b453435fd38fdefcd7ce9e2fe9d29683bbe83dce1b19019869.jpg",
+        "caption": "T\u1eeb khi tr\u1ed3ng m\u1ea5y c\u00e1i c\u00e2y kh\u00f4ng hi\u1ec3u sao m\u1ea5y anh xe \u00f4m t\u1ea5t xanh c\u1ee9 ch\u1ea1y qua ch\u1ea1y l\u1ea1i",
+        "label": "multi-sarcasm"
+    },
+    "11": {
+        "image": "0ebdbd92f41fba1e10dc18db3611d5cbc8fe72f68701d48c8c3c5ec67bf4a11c.jpg",
+        "caption": "Y\u00eau ph\u1ea3i ng\u01b0\u1eddi t\u1ed1t th\u00ec c\u1ea3 \u0111\u1eddi s\u1ebd l\u00e0 c\u00f4ng ch\u00faa v\u00e0 \u0111\u01b0\u1ee3c c\u01b0ng chi\u1ec1u che ch\u1edf\nTh\u1ebf nh\u01b0ng ng\u01b0\u1ee3c l\u1ea1i \ud83d\ude30",
+        "label": "not-sarcasm"
+    },
+    "12": {
+        "image": "18aa6dc29ad944304c1e0562fbd47ada7069b1d2d7a1987f1e38cc2458cf812b.jpg",
+        "caption": "Tr\u00e2m t\u1ec7",
+        "label": "multi-sarcasm"
+    },
+    "13": {
+        "image": "ecb3e6649ccba30b50ac69bc15ca07acbeca23d73a17bb6de159451eab7922ad.jpg",
+        "caption": "Th\u00f4 nh\u01b0ng m\u00e0 th\u1eadt",
+        "label": "not-sarcasm"
+    },
+    "14": {
+        "image": "90c661aad668399802df3aac06027f3473c97ec8b2289e7aadabe30f4a940733.jpg",
+        "caption": "Y\u00eau ph\u1ea3i ng\u01b0\u1eddi t\u1ed1t th\u00ec c\u1ea3 \u0111\u1eddi s\u1ebd l\u00e0 c\u00f4ng ch\u00faa v\u00e0 \u0111\u01b0\u1ee3c c\u01b0ng chi\u1ec1u che ch\u1edf\nTh\u1ebf nh\u01b0ng ng\u01b0\u1ee3c l\u1ea1i \ud83d\ude30",
+        "label": "not-sarcasm"
+    },
+    "15": {
+        "image": "d664bcd470a53923f12d366cc702f2c0a440e8406cf88630b9762d8635ae1189.jpg",
+        "caption": "Khoan \u0111\u00e3 h\u00ecnh nh\u01b0 c\u00f3 c\u00e1i g\u00ec \u0111\u00f3 sai sai \ud83d\ude03 \ud83d\ude03",
+        "label": "multi-sarcasm"
+    },
+    "16": {
+        "image": "93a98ca499e5ce548eb153a2f1f3f07c949abf113f3e753aed0f7d9d186154a6.jpg",
+        "caption": "Kh\u00f3 v\u1eady c\u1ee7ng ngh\u0129 ra \u0111\u01b0\u1ee3c \ud83e\udd79",
+        "label": "not-sarcasm"
+    },
+    "17": {
+        "image": "681379e0be0a7b360d4929a41a0d56c5bc8c876fd72c555d96fd057276d2a91a.jpg",
+        "caption": "Kh\u00f3c c\u1ea3 d\u00f2ng s\u00f4ng \ud83d\ude2d",
+        "label": "multi-sarcasm"
+    },
+    "18": {
+        "image": "5aa0ab43eeccdbdd6fd1ef336f9543b556adace5810542235864f3afcfef2683.jpg",
+        "caption": "Y\u00eau ph\u1ea3i ng\u01b0\u1eddi t\u1ed1t th\u00ec c\u1ea3 \u0111\u1eddi s\u1ebd l\u00e0 c\u00f4ng ch\u00faa v\u00e0 \u0111\u01b0\u1ee3c c\u01b0ng chi\u1ec1u che ch\u1edf\nTh\u1ebf nh\u01b0ng ng\u01b0\u1ee3c l\u1ea1i \ud83d\ude30",
+        "label": "not-sarcasm"
+    },
+    "19": {
+        "image": "530647b80560fd5e046b693498014afd6617dd918163a2c76016c262ed6641a6.jpg",
+        "caption": "Sao v\u00e0o \u0111\u01b0\u1ee3c hay v\u1eady ta \ud83d\ude2e",
+        "label": "not-sarcasm"
+    }
+}
